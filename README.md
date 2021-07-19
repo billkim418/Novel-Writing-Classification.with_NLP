@@ -10,9 +10,6 @@
 ## 프로젝트 타임라인
 ![프로젝트 타임라인](image/EDA/timeline.png)
 
-## 시각화
-
-[Visaulization](https://github.com/billkim418/Novel-Writing-Classification.with_NLP/tree/main/image)
 
 ## Submmission
 - [Final PPT](https://github.com/billkim418/Novel-Writing-Classification.with_NLP/blob/main/submission/nlp_writing_style_presentation.pdf)
